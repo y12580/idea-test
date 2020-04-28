@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb7f29b-dbf3-4afb-8cbc-6c452e4600f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/RunApplication8080.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RunApplication8080.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\新建文件夹\TestDemoGrable\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bAbOKzh5pdw2r16T9bs9DSyckc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb7f29b-dbf3-4afb-8cbc-6c452e4600f9" name="Default Changelist" comment="" />
+      <created>1588077811112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588077811112</updated>
+      <workItem from="1588077818746" duration="1746000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1588079152344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588079152344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1588079151123">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="289" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1588079151123" />
+    <state x="479" y="113" key="FileChooserDialogImpl" timestamp="1588077979074">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="479" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588077979074" />
+    <state x="291" y="105" key="Vcs.Push.Dialog.v2" timestamp="1588079540364">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="291" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588079540364" />
+  </component>
+</project>
